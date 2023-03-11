@@ -31,11 +31,17 @@ The E-commerce Platform will have 3 different modules namely,
 Our project has the following features:
 
 • A homepage for the customer where he/she can view new products and discounts.
+
 • The seller's homepage where he/she can view their current and past shipments.
+
 • Mark products as favorites or put them in the cart and order them.
+
 • Tracking of the delivery status. A customer may post reviews of a product.
+
 • Customers receive notifications regarding sales and discounts.
+
 • Portal for customer support in case of any discrepancies.
+
 • Return and replacement options for products.
 
 Operating Environment:
@@ -72,7 +78,9 @@ access. Data security should be maintained.
 3.Security Requirements:
 
 • HTTPS protocols are used for communication due to their secure nature.
+
 • User login is secured by JWT authentication with role-based authorization.
+
 • Cross Origin access is restricted at service level.
 
 Hardware Interfaces:
